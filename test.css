@@ -1,0 +1,19 @@
+#header {
+    color: red;
+}
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#name-input
+{ background-color:aqua;
+}
+button{
+    border-radius: 30px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: crimson;
+}
+#email-input {
+    background-color: aqua;
+}
