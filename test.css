@@ -2,7 +2,7 @@
     color: red;
 }
 * {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:fantasy
 }
 #name-input
 { background-color:aqua;
@@ -16,4 +16,19 @@ button:hover{
 }
 #email-input {
     background-color: aqua;
+}
+#reply-button:hover{
+    background-color: cornflowerblue;
+}
+#play-button:hover {
+    background-color: darkorchid;
+}
+h3{
+    color:green;
+}
+ul{
+    color:darkblue;scroll-snap-type: ;
+}
+h2{
+    color:crimson;
 }
